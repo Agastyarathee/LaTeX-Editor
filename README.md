@@ -90,7 +90,13 @@ backend/
 
 ## 🛠️ Initialization & Setup (via Docker Image)
 
-To run the project instantly using pre-built Docker images:
+To get started instantly with the full application, you can download and run the pre-built Docker images directly — no need to clone or build anything.
+
+🔽 **Download Docker Images (Frontend + Backend):**  
+[Download LaTeXPlatform.tar](https://1drv.ms/u/c/6ce49fd584ca245e/EZY8c0ddDr1As80kM394fzoBjBFNJqviuhBm3IbsjUkk8g?e=LfDpIp)
+
+Once downloaded, load and run them as follows:
+
 
 ### 1. Load the Docker images
 
